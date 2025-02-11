@@ -48,6 +48,7 @@ Feel free to reach out to me through the following platforms:
 - [**Email Address**](tedgithinji83@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/teddy-muraguri/details/certifications/)
 - [**Twitter**](https://x.com/SorcererScript)
+- [**Discord**](https://discord.com/channels/@teddy_githinji)
 
 <!-- Footer Section -->
 <p align="center">
