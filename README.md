@@ -46,7 +46,7 @@ I have participated in several projects, playing various roles. Here are one of 
 Feel free to reach out to me through the following platforms:
 
 - [**Email Address**](mailto:tedgithinji83@gmail.com)
-- [**LinkedIn**](https://www.linkedin.com/in/teddy-muraguri/details/certifications/)
+- [**LinkedIn**](https://www.linkedin.com/in/teddy-muraguri/)
 - [**Discord**](https://discord.com/channels/@me/1338899017572024360)
 
 <!-- Footer Section -->
