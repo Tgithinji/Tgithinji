@@ -8,7 +8,7 @@
 <!-- About Me Section -->
 ## About Me
 
-I am a graduate of the ALX Software Engineering Program, where my journey into the world of software engineering began. I am passionate about web and mobile technology. My goal is to leverage my skills and experiences to create impactful and innovative solutions.
+I am a graduate of the ALX Software Engineering Program, where my journey into the world of software engineering began. I am passionate about web and mobile technology and I specialize in backend technologies. My goal is to leverage my skills and experiences to create impactful and innovative solutions.
 
 <!-- Skills Section -->
 ## Skills
@@ -45,10 +45,9 @@ I have participated in several projects, playing various roles. Here are one of 
 
 Feel free to reach out to me through the following platforms:
 
-- [**Email Address**](tedgithinji83@gmail.com)
+- [**Email Address**](mailto:tedgithinji83@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/teddy-muraguri/details/certifications/)
-- [**Twitter**](https://x.com/SorcererScript)
-- [**Discord**](https://discord.com/channels/@teddy_githinji)
+- [**Discord**](https://discord.com/channels/@me/1338899017572024360)
 
 <!-- Footer Section -->
 <p align="center">
