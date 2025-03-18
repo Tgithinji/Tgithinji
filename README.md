@@ -1,7 +1,5 @@
 <!-- Header Section -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/119703130?s=400&v=4" alt="Teddy Githinji" width="200" height="200"/>
-</p>
+
 <h1 align="center">Hi, I'm Teddy Githinji 👋</h1>
 <h3 align="center">A full stack Software Engineer</h3>
 
