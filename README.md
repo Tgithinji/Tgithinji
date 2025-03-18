@@ -27,16 +27,7 @@ I am proficient in the following languages and frameworks:
   - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<!-- Projects Section -->
-## Projects
 
-I have participated in several projects, playing various roles. Here are one of them:
-
-1. **Blog API**
-   - **Role:** Lead developer
-   - **Description:** A high-performance RESTful API for a blogging platform, allowing users to create, read, update, and delete blog posts with authentication and authorization.
-   - **Technologies Used:** Python, FastAPI, PostgreSQL, JWT, SQLAlchemy
-   - [**GitHub Repository**](https://github.com/Tgithinji/blog_api)
 
 <!-- Contact Section -->
 ## Contact
